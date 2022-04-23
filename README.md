@@ -1,6 +1,6 @@
 # bakery
 
-A new Flutter project.
+A new Flutter project. This time I wanted to create an app for a bakery. This is more based on the design. Hope that you like it!
 
 ## Getting Started
 
